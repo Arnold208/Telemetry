@@ -15,8 +15,8 @@ typedef enum
 // ----------------------------------------------------------------------------
 // WiFi connection config
 // ----------------------------------------------------------------------------
-#define WIFI_SSID     "SENSE-IOT-NETWORK"
-#define WIFI_PASSWORD "AfriSense1255"
+#define WIFI_SSID     ""
+#define WIFI_PASSWORD ""
 #define WIFI_MODE     WPA2_PSK_AES
 
 // ----------------------------------------------------------------------------
@@ -38,8 +38,8 @@ typedef enum
 //    IOT_HUB_HOSTNAME:  The Azure IoT Hub hostname
 //    IOT_HUB_DEVICE_ID: The Azure IoT Hub device id
 // ----------------------------------------------------------------------------
-#define IOT_HUB_HOSTNAME  "craftedclimate.azure-devices.net"
-#define IOT_HUB_DEVICE_ID "mxchip11"
+#define IOT_HUB_HOSTNAME  ""
+#define IOT_HUB_DEVICE_ID ""
 
 // ----------------------------------------------------------------------------
 // Azure IoT DPS Self-Signed X509Certificate
